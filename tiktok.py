@@ -234,7 +234,6 @@ class TikTokAutoBot:
 
     def run_auto_view(self):
         """Run Auto View Menu"""
-        self.clear_screen()
         self.print_banner()
         
         # Get initial input for auto view
@@ -339,4 +338,5 @@ def main():
     bot.run()
 
 if __name__ == "__main__":
+
     main()
