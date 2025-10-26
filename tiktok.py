@@ -270,7 +270,6 @@ class TikTokAutoBot:
 
     def run_auto_likes(self):
         """Run Auto Likes Menu"""
-        self.clear_screen()
         self.print_banner()
         
         # Get initial input for auto likes
@@ -340,3 +339,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
