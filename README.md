@@ -9,7 +9,7 @@ git clone https://github.com/henarimualimin/tiktok-auto-like-view-new.git
 ```
 2. Open File
 ```bash
-cd luxury-auto-reff
+cd tiktok-auto-like-view-new
 ```
 3. Install Module
 ```bash
