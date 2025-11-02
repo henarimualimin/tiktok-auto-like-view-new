@@ -3,7 +3,8 @@
 [KLIK DISINI AIRDROP DIGGER](https://t.me/airdropdiggerid)
 
 # LINK EXAMPLE
-*** https://www.tiktok.com/@yourusernamr/video/75952060675788044 ***
+https://www.tiktok.com/@yourusernamr/video/75952060675788044
+
 ## Installation 
 1. Clone the repository:
 ```bash
@@ -17,7 +18,7 @@ cd tiktok-auto-like-view-new
 ```bash
 pip install requests
 ```
-4. Install Module
+4. Run Bot
 ```bash
 python tiktok.py
 ```
