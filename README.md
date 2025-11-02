@@ -2,6 +2,8 @@
 ## CHANNEL TELEGRAM JOIN HERE
 [KLIK DISINI AIRDROP DIGGER](https://t.me/airdropdiggerid)
 
+# LINK EXAMPLE
+*** https://www.tiktok.com/@yourusernamr/video/75952060675788044 ***
 ## Installation 
 1. Clone the repository:
 ```bash
